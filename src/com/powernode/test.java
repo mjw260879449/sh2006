@@ -1,5 +1,5 @@
 package com.powernode;
 
-public class test {
+public class Test {
     private int age;
 }
